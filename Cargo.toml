@@ -1,0 +1,3 @@
+[workspace]
+members = ["programs/isolation-clean"]
+resolver = "2"
